@@ -15,5 +15,23 @@
 - Ability to work in a team
 - Punctuality
 - Basic programming skills
+---
+
+## Education
+
+| Institution                        | Years of Study | Specialization               |
+|------------------------------------|----------------|------------------------------|
+| Belarusian-Russian University (BRU)| 2023 - 2027    | Information Technology       |
+| Secondary School №21               | 2012 - 2023    | General Secondary Education  |
+
+---
+
+## About Me
+
+Goal-oriented and hardworking person with experience working in a team.
+
+---
+
+<small>2025 Kvetko Nikita Vasilyevich.</small>
 
 
