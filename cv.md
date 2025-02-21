@@ -7,4 +7,13 @@
 **Age:** 18 years  
 **Email:** [stolyarov178@mail.ru](mailto:stolyarov178@mail.ru)  
 **Phone:** [+375 (29) 842-11-32](tel:+375291234567)
+---
+
+## Skills
+
+- Responsibility
+- Ability to work in a team
+- Punctuality
+- Basic programming skills
+
 
